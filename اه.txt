@@ -3,4 +3,6 @@
     "info": "https://t.me/DemBotz/50" 
     "info": "https://t.me/DemBotz/11"
     "info": "https://t.me/DemBotz/33"
+    "Info": true,
+    "info": "https://t.me/DemBotz/23"
 }
