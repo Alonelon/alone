@@ -1,0 +1,9 @@
+{
+    "Info": true,
+    "info": "https://t.me/DemBotz/73"
+}
+
+{
+    "Info": true,
+    "info": "https://t.me/DemBotz/33"
+}
