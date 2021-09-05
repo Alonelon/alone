@@ -1,0 +1,12 @@
+{
+    "Info": true,
+    "info": "https://t.me/DemBotz/76"
+}
+{
+    "Info": true,
+    "info": "https://t.me/DemBotz/77"
+}
+{
+    "Info": true,
+    "info": "https://t.me/DemBotz/79"
+}
