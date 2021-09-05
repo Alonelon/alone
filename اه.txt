@@ -1,8 +1,6 @@
 {
     "Info": true,
-    "info": "https://t.me/DemBotz/50"
-    "Info": 
+    "info": "https://t.me/DemBotz/50" 
     "info": "https://t.me/DemBotz/11"
-    "Info":
     "info": "https://t.me/DemBotz/33"
 }
